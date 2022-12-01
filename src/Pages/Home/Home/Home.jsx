@@ -17,15 +17,15 @@ const Home = () => {
         <>
            <Banner />
            <Feature />
-           <About />
+           {/* <About /> */}
            <Service />
-           <Dentist />
+           {/* <Dentist /> */}
            <Appoinment />
-           <Gallery />
-           <Testimonial />
-           <LatestBlog />
-           <Promo />
-           <Slick />
+           {/* <Gallery /> */}
+           {/* <Testimonial /> */}
+           {/* <LatestBlog /> */}
+           {/* <Promo /> */}
+           {/* <Slick /> */}
         </>
     );
 };

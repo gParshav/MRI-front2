@@ -2,7 +2,8 @@ import "@fontsource/josefin-sans";
 import { Col, Container, Row } from 'react-bootstrap';
 import { Link } from "react-router-dom";
 import doctorfinding from '../../../Images/doctorfinding.c2532ac3.png';
-import heroTeeth from '../../../Images/hero-theeth.54c2c4e9.png';
+// import heroTeeth from '../../../Images/hero-theeth.54c2c4e9.png';
+import heroTeeth from '../../../Images/brain.jfif';
 import womanbrush from '../../../Images/woman-brush.c4158ac5.png';
 import './Banner.css';
 
